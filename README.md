@@ -2,7 +2,7 @@
 
 基于 [lmstudio-community/functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it) 修改发布。
 
-🏠 **仓库地址 → [DarylFranxx/functiongemma-270m-mika]([https://darylfranxx-functiongemma-270m-mika-demo.hf.space/?logs=container&__theme=system](https://huggingface.co/DarylFranxx/functiongemma-270m-mika))**
+🏠 **仓库地址 → [DarylFranxx/functiongemma-270m-mika]([https://darylfranxx-functiongemma-270m-mika-demo.hf.space/?logs=container&__theme=system](https://huggingface.co/DarylFranxx/functiongemma-270m-mika)**
 
 🎮 **在线体验 Function Calling Demo → [DarylFranxx/functiongemma-270m-demo](https://darylfranxx-functiongemma-270m-mika-demo.hf.space/?logs=container&__theme=system)**
 
